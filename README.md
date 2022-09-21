@@ -10,6 +10,6 @@ Features
 * Video/WebCam/External Camera/IP Stream Supported
 
 ## It is super easy to run
-* **If you want to train the model you can use the *Background_changer_UNet.ipynb* **
+* **If you want to train the model you can use the Background_changer_UNet.ipynb**
 * **Ready-to-use file: Background_changer_App.ipynb**
 * **When you use Google Colab for codes, it will be way easier than working on the local computer**
